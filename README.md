@@ -1,4 +1,4 @@
-### Hi there 👋:rocket:
+### Hi there :rocket:
 
 <!--
 **rishirajrsawant/rishirajrsawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
