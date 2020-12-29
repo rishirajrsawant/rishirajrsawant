@@ -10,11 +10,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a web application to be developed in React.
 - 🌱 I’m currently learning React.
+- 💬 Ask me about Flutter, Web Development, Progress 4GL, Computer Vision and Python and also Life Philosophy haha :)
+- 📫 How to reach me: [Github](https://github.com/rishirajrsawant/), [Linkedin](https://www.linkedin.com/in/rishiraj-sawant/)
+- 😄 Pronouns: He/Him
+
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about Flutter, Web Development, Progress 4GL, Computer Vision and Python and also Life Philosophy haha :)
-- 📫 How to reach me: [Github](https://github.com/rishirajrsawant/), [Linkedin](https://www.linkedin.com/in/rishiraj-sawant/)
-- 😄 Pronouns: He/Him
 
