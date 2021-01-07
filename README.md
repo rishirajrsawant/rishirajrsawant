@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Github](https://github.com/rishirajrsawant/), [Linkedin](https://www.linkedin.com/in/rishiraj-sawant/)
 - 😄 Pronouns: He/Him
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishirajrsawant&layout=compact&theme=onedark" />
 
 <!--
 - 👯 I’m looking to collaborate on ...
